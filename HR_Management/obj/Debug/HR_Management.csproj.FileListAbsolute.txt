@@ -1,0 +1,219 @@
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmGender.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmReligion.resources
+E:\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+H:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+H:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+H:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmGender.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmReligion.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+H:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+E:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+E:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+E:\ADO_NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmGender.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmReligion.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmLogin.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmRegistration.resources
+E:\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployeeReport.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployeeReport.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmLogin.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO_NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmRegistration.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmLogin.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmRegistration.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.xml
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.xml
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmAllEmployee.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CopyComplete
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Shared.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\FlashControlV71.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\ShockwaveFlashObjects.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\bin\Debug\stdole.dll
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployeeList.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployee.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployeeList.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmAllEmployee.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployee.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployeeList.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployeeList.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmLogin.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmRegistration.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmReport.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Shared.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\FlashControlV71.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\ShockwaveFlashObjects.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\stdole.dll
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.xml
+F:\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.xml
+F:\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CopyComplete
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployee.resources
+G:\IDB Scholarship\1248604 Nur Mohammed\PROJECT\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployeeList.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe.config
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.exe
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\HR_Management.pdb
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Shared.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\FlashControlV71.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\ShockwaveFlashObjects.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\stdole.dll
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.xml
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\bin\Debug\EntityFramework.SqlServer.xml
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csprojAssemblyReference.cache
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Form1.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmAllEmployee.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCity.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmCountry.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartment.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployee.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDepartmentWiseEmployeeList.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignation.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployee.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmDesignationWiseEmployeeList.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployee.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmEmployeeList.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmLogin.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmRegistration.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.frmSection.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.Properties.Resources.resources
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.GenerateResource.cache
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CoreCompileInputs.cache
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.csproj.CopyComplete
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.exe
+E:\Imran\IDB_Class\Sir FIle\ESAD_40\ADO_.Net\ADO_FinalProject\1248604_NurMohammed\ADO.NET\HR_Management\HR_Management\obj\Debug\HR_Management.pdb
